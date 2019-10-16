@@ -161,7 +161,7 @@ void BST_Tree::transfer(int sender_accountno,int reciever_accountno,int sender_a
 	reciever->balance = reciever->balance + sender_amount;
 	update_server(Root);
 
-	// happening in transacton file
+	// Now happening in the transacton file
 
 	//  for sender
 	vector <int> data;
