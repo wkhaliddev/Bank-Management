@@ -4,6 +4,7 @@
 # include "admin.h"
 # include "staff.h"
 # include "customer.h"
+# include "string.h"
 
 void boot()
 {
