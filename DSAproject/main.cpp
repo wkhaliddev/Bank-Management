@@ -31,7 +31,7 @@ int main()
 		}
 		if (condition == 2)
 		{
-
+			staff();
 		}
 		if (condition == 3)
 		{
