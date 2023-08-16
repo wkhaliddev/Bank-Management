@@ -5,7 +5,7 @@ In this project there a three basic portions:
 3-staff
 so all these have different levels of authorizations like 
 
-1-customer can :
+1-customer can : 
 perform transaction and like that
 
 3-staff can:
